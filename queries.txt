@@ -1,0 +1,1 @@
+user=%7B%22id%22%3A6735333570%2C%22first_name%22%3A%22Rosa%22%2C%22last_name%22%3A%22%F0%9F%8C%B1SEED%22%2C%22username%22%3A%22Nsvzf%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&chat_instance=8753152545984282168&chat_type=channel&start_param=r-0000Akud&auth_date=1729036993&hash=ed9ce8ae5100ddf418c8eb311d4bc6e484d56c935a3eb62346f2d1a04434edf7
